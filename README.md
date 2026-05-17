@@ -28,11 +28,3 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arch,linux,bash,python,git,github,vscode,c,cpp&theme=dark" alt="My Skills" />
 </div>
-
----
-
-### 📊 My GitHub Performance
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lionelsabdani36-ai&show_icons=true&theme=tokyonight&hide_border=true&title_color=1793d1&icon_color=1793d1" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionelsabdani36-ai&layout=compact&theme=tokyonight&hide_border=true&title_color=1793d1" alt="Top Languages" />
-</div>
