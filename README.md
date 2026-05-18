@@ -33,7 +33,7 @@
 
 <div align="center">
   <h3> 🛠️ Tech Stack & Tools </h3>
-  <img src="https://skillicons.dev/icons?i=arch,linux,bash,python,git,github,vscode,c,cpp&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=arch,linux,bash,python,git,php,vue,laravel,nuxt&theme=dark" alt="My Skills" />
 </div>
 
 <br>
